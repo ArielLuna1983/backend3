@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "desafio-clase-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
